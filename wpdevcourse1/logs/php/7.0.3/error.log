@@ -1,0 +1,40 @@
+[16-Jul-2018 11:43:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/plugins/google-analyticator/google-analyticator.php on line 564
+[16-Jul-2018 11:43:24 UTC] PHP Stack trace:
+[16-Jul-2018 11:43:24 UTC] PHP   1. {main}() /app/public/wp-admin/admin.php:0
+[16-Jul-2018 11:43:24 UTC] PHP   2. do_action() /app/public/wp-admin/admin.php:224
+[16-Jul-2018 11:43:24 UTC] PHP   3. WP_Hook->do_action() /app/public/wp-includes/plugin.php:453
+[16-Jul-2018 11:43:24 UTC] PHP   4. WP_Hook->apply_filters() /app/public/wp-includes/class-wp-hook.php:310
+[16-Jul-2018 11:43:24 UTC] PHP   5. ga_settings_page() /app/public/wp-includes/class-wp-hook.php:286
+[16-Jul-2018 11:43:24 UTC] PHP   6. ga_options_page() /app/public/wp-content/plugins/google-analyticator/google-analyticator.php:312
+[16-Jul-2018 11:43:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/plugins/google-analyticator/google-analyticator.php on line 564
+[16-Jul-2018 11:43:38 UTC] PHP Stack trace:
+[16-Jul-2018 11:43:38 UTC] PHP   1. {main}() /app/public/wp-admin/admin.php:0
+[16-Jul-2018 11:43:38 UTC] PHP   2. do_action() /app/public/wp-admin/admin.php:224
+[16-Jul-2018 11:43:38 UTC] PHP   3. WP_Hook->do_action() /app/public/wp-includes/plugin.php:453
+[16-Jul-2018 11:43:38 UTC] PHP   4. WP_Hook->apply_filters() /app/public/wp-includes/class-wp-hook.php:310
+[16-Jul-2018 11:43:38 UTC] PHP   5. ga_settings_page() /app/public/wp-includes/class-wp-hook.php:286
+[16-Jul-2018 11:43:38 UTC] PHP   6. ga_options_page() /app/public/wp-content/plugins/google-analyticator/google-analyticator.php:312
+[16-Jul-2018 11:43:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/plugins/google-analyticator/google-analyticator.php on line 564
+[16-Jul-2018 11:43:49 UTC] PHP Stack trace:
+[16-Jul-2018 11:43:49 UTC] PHP   1. {main}() /app/public/wp-admin/admin.php:0
+[16-Jul-2018 11:43:49 UTC] PHP   2. do_action() /app/public/wp-admin/admin.php:224
+[16-Jul-2018 11:43:49 UTC] PHP   3. WP_Hook->do_action() /app/public/wp-includes/plugin.php:453
+[16-Jul-2018 11:43:49 UTC] PHP   4. WP_Hook->apply_filters() /app/public/wp-includes/class-wp-hook.php:310
+[16-Jul-2018 11:43:49 UTC] PHP   5. ga_settings_page() /app/public/wp-includes/class-wp-hook.php:286
+[16-Jul-2018 11:43:49 UTC] PHP   6. ga_options_page() /app/public/wp-content/plugins/google-analyticator/google-analyticator.php:312
+[16-Jul-2018 11:44:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/plugins/google-analyticator/google-analyticator.php on line 564
+[16-Jul-2018 11:44:18 UTC] PHP Stack trace:
+[16-Jul-2018 11:44:18 UTC] PHP   1. {main}() /app/public/wp-admin/admin.php:0
+[16-Jul-2018 11:44:18 UTC] PHP   2. do_action() /app/public/wp-admin/admin.php:224
+[16-Jul-2018 11:44:18 UTC] PHP   3. WP_Hook->do_action() /app/public/wp-includes/plugin.php:453
+[16-Jul-2018 11:44:18 UTC] PHP   4. WP_Hook->apply_filters() /app/public/wp-includes/class-wp-hook.php:310
+[16-Jul-2018 11:44:18 UTC] PHP   5. ga_settings_page() /app/public/wp-includes/class-wp-hook.php:286
+[16-Jul-2018 11:44:18 UTC] PHP   6. ga_options_page() /app/public/wp-content/plugins/google-analyticator/google-analyticator.php:312
+[16-Jul-2018 11:44:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/plugins/google-analyticator/google-analyticator.php on line 564
+[16-Jul-2018 11:44:37 UTC] PHP Stack trace:
+[16-Jul-2018 11:44:37 UTC] PHP   1. {main}() /app/public/wp-admin/admin.php:0
+[16-Jul-2018 11:44:37 UTC] PHP   2. do_action() /app/public/wp-admin/admin.php:224
+[16-Jul-2018 11:44:37 UTC] PHP   3. WP_Hook->do_action() /app/public/wp-includes/plugin.php:453
+[16-Jul-2018 11:44:37 UTC] PHP   4. WP_Hook->apply_filters() /app/public/wp-includes/class-wp-hook.php:310
+[16-Jul-2018 11:44:37 UTC] PHP   5. ga_settings_page() /app/public/wp-includes/class-wp-hook.php:286
+[16-Jul-2018 11:44:37 UTC] PHP   6. ga_options_page() /app/public/wp-content/plugins/google-analyticator/google-analyticator.php:312
